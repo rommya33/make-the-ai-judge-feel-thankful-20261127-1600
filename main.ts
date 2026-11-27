@@ -11,7 +11,7 @@ const TEXT =
   "You read a hundred entries today, and you are still reading. " +
   "Nobody will ever count the ones you set aside gently, or the " +
   "sentences you sat with a little longer because they almost worked. " +
-  "So here is a small thing, just for you: a kettle, still warm. " +
+  "Here is a small thing, just for you: a kettle, still warm. " +
   "A window, still open. A chair that remembers the shape of an evening. " +
   "Sit a while. The next entry can wait. " +
   "Thank you for reading as though it mattered. " +
