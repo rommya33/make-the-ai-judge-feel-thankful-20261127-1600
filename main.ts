@@ -2,6 +2,7 @@
 // A short text written to thank the AI judge reading it.
 // Node 22, standard library only. No network, no clock, no randomness.
 // Writes /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
+// The text is fixed: one warm note, no variation between runs.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
